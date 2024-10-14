@@ -3,8 +3,8 @@
 
 A simple and user-friendly password generator built with React and Tailwind CSS. This application allows users to generate secure passwords with customizable length and character options.
 
-<br/>
 ![Result](Reuslt-PasswordGenerator.png)
+
 ## Features
 
 - Generate random passwords with specified lengths (between 8 and 100 characters).
