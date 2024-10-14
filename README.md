@@ -1,5 +1,5 @@
 
-## Password Generator
+## Password Generator Developed with ❤️ by Syed Tanzeel Adnan
 
 A simple and user-friendly password generator built with React and Tailwind CSS. This application allows users to generate secure passwords with customizable length and character options.
 
@@ -23,3 +23,8 @@ A simple and user-friendly password generator built with React and Tailwind CSS.
 
    ```bash
    git clone https://github.com/yourusername/password-generator.git
+
+
+
+
+### Developed with ❤️ by Syed Tanzeel Adnan
